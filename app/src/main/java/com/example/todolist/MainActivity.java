@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
         initViews();
     }
     private void initViews(){
-
+        // before back end:
+        // create design for ai chatbot and for the add task interface (modal layout inflater + alertdialog.builder)
+        // improvement in design especially in main menu
     }
 }
