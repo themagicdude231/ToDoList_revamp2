@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
     }
     private void initViews(){
         // before back end:
-        // create design the add task interface (modal layout inflater + alertdialog.builder)
         // improvement in design especially in main menu
     }
 }
