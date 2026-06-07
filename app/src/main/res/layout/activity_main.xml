@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-    <!-- for the header of main page  -->
+    <!-- for the header of main page (edit the header to display weather)   -->
     <View
         android:id="@+id/headerPanel"
         android:layout_width="match_parent"
@@ -39,6 +39,7 @@
         android:textStyle="normal"
         app:layout_constraintStart_toStartOf="@id/tvMyTasks"
         app:layout_constraintTop_toBottomOf="@id/tvMyTasks" />
+    <!-- Weather icon (edit the header to display weather) -->
     <!-- filter in the main page  -->
     <HorizontalScrollView
         android:id="@+id/filtersScrollView"
